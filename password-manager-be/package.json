@@ -1,0 +1,19 @@
+{
+  "name": "password-manager-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js ."
+  },
+  "keywords": [],
+  "author": "Sushant Sahu <sushant87@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "pg": "^8.7.3"
+  }
+}
